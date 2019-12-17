@@ -37,3 +37,6 @@ python __mian__.py
 `durability`：武器耐久度
 
 你也可以在[百度网盘链接](https://pan.baidu.com/s/1rhkpM17hnmWT-Ze4jr-Rdw)下载所有炉石卡牌
+
+
+<h4 align="center">Made with ❤️ by <a href="https://linklinco.github.io" style="text-decoration:none">Linco</a>🎉</h4>
